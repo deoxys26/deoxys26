@@ -19,7 +19,7 @@
 <a href="https://github.com/deoxys26">
   <img src="https://img.shields.io/badge/GitHub-deoxys26-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/phani-m">
+<a href="">
   <img src="https://img.shields.io/badge/LinkedIn-Phani%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:phani262005@gmail.com">
