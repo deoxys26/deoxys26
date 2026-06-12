@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:7f00ff&text=Phani%20M&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ECE%20Student&descAlignY=58&descSize=18" />
@@ -46,13 +45,13 @@ My current focus is on **AI/ML applications, Generative AI, RAG systems, FastAPI
 
 <div align="center">
 
-| Currently Open To | Areas of Interest |
-|---|---|
-| Remote Internships | AI/ML Engineering |
-| GenAI Projects | LLM Applications |
-| Backend AI Roles | FastAPI + AI Workflows |
-| Full Stack Internships | React + API Products |
-| Freelance Projects | AI Tools and Automation |
+| Currently Open To      | Areas of Interest       |
+| ---------------------- | ----------------------- |
+| Remote Internships     | AI/ML Engineering       |
+| GenAI Projects         | LLM Applications        |
+| Backend AI Roles       | FastAPI + AI Workflows  |
+| Full Stack Internships | React + API Products    |
+| Freelance Projects     | AI Tools and Automation |
 
 </div>
 
@@ -92,15 +91,15 @@ My current focus is on **AI/ML applications, Generative AI, RAG systems, FastAPI
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|---:|---|
-| Machine Learning | Intermediate | Classification, regression, evaluation, feature engineering, LightGBM |
-| Generative AI | Intermediate | Gemini API, prompt engineering, structured AI workflows |
-| RAG Systems | Intermediate | Document ingestion, chunking, embeddings, retrieval, citation-based answers |
-| NLP | Intermediate | Text preprocessing, tokenization, transformers, sentiment analysis |
-| Backend AI | Intermediate | FastAPI services, modular architecture, AI API integration |
-| Full Stack AI Apps | Intermediate | React frontend connected with AI-powered backend APIs |
-| Data Analysis | Intermediate | Pandas, CSV workflows, exploratory analysis, model output evaluation |
+| Domain             |  Proficiency | Details                                                                     |
+| ------------------ | -----------: | --------------------------------------------------------------------------- |
+| Machine Learning   | Intermediate | Classification, regression, evaluation, feature engineering, LightGBM       |
+| Generative AI      | Intermediate | Gemini API, prompt engineering, structured AI workflows                     |
+| RAG Systems        | Intermediate | Document ingestion, chunking, embeddings, retrieval, citation-based answers |
+| NLP                | Intermediate | Text preprocessing, tokenization, transformers, sentiment analysis          |
+| Backend AI         | Intermediate | FastAPI services, modular architecture, AI API integration                  |
+| Full Stack AI Apps | Intermediate | React frontend connected with AI-powered backend APIs                       |
+| Data Analysis      | Intermediate | Pandas, CSV workflows, exploratory analysis, model output evaluation        |
 
 </div>
 
@@ -117,14 +116,14 @@ An AI-powered legal document assistant that allows users to upload contracts or 
 
 <br/>
 
-| Category | Details |
-|---|---|
-| Stack | FastAPI, React, Gemini API, Qdrant, Python |
-| Scale | Multi-page PDF ingestion with chunk-level retrieval |
-| Performance | Retrieval-based answering with compact context generation |
-| Security | API-based backend structure with controlled document flow |
-| Impact | Helps users understand contracts faster with grounded answers |
-| Repository | [View Repository](https://github.com/deoxys26/lexintel) |
+| Category    | Details                                                       |
+| ----------- | ------------------------------------------------------------- |
+| Stack       | FastAPI, React, Gemini API, Qdrant, Python                    |
+| Scale       | Multi-page PDF ingestion with chunk-level retrieval           |
+| Performance | Retrieval-based answering with compact context generation     |
+| Security    | API-based backend structure with controlled document flow     |
+| Impact      | Helps users understand contracts faster with grounded answers |
+| Repository  | [View Repository](https://github.com/deoxys26/lexintel)       |
 
 LexIntel was built as a practical RAG application with a modular backend. The system extracts text from PDFs, chunks the content, creates embeddings, stores them in a retrieval layer, and uses Gemini to answer questions using relevant document context. The project demonstrates backend AI architecture, retrieval pipelines, frontend integration, and real-world GenAI product thinking.
 
@@ -141,14 +140,14 @@ An AI-powered career guidance assistant designed to analyze user profiles and pr
 
 <br/>
 
-| Category | Details |
-|---|---|
-| Stack | FastAPI, LangChain, Python, LLM APIs |
-| Scale | Modular backend with career analysis routes |
-| Performance | Structured prompt flow for personalized output |
-| Security | Environment-based API key handling |
-| Impact | Helps students understand suitable career directions |
-| Repository | [View Repository](https://github.com/deoxys26) |
+| Category    | Details                                              |
+| ----------- | ---------------------------------------------------- |
+| Stack       | FastAPI, LangChain, Python, LLM APIs                 |
+| Scale       | Modular backend with career analysis routes          |
+| Performance | Structured prompt flow for personalized output       |
+| Security    | Environment-based API key handling                   |
+| Impact      | Helps students understand suitable career directions |
+| Repository  | [View Repository](https://github.com/deoxys26)       |
 
 InternPilot-AI focuses on using LLM workflows for career support. It includes backend routes, service layers, prompt handling, and career-fit analysis logic. The project helped strengthen my understanding of backend design, LangChain-style workflows, API debugging, and structured AI responses.
 
@@ -165,14 +164,14 @@ A sentiment analysis application that classifies product reviews as positive or 
 
 <br/>
 
-| Category | Details |
-|---|---|
-| Stack | DistilBERT, FastAPI, React, Python |
-| Scale | Review-level classification pipeline |
-| Performance | High-confidence predictions on product review text |
-| Security | API-based model inference flow |
-| Impact | Useful for e-commerce review analysis and customer feedback understanding |
-| Repository | [View Repository](https://github.com/deoxys26) |
+| Category    | Details                                                                   |
+| ----------- | ------------------------------------------------------------------------- |
+| Stack       | DistilBERT, FastAPI, React, Python                                        |
+| Scale       | Review-level classification pipeline                                      |
+| Performance | High-confidence predictions on product review text                        |
+| Security    | API-based model inference flow                                            |
+| Impact      | Useful for e-commerce review analysis and customer feedback understanding |
+| Repository  | [View Repository](https://github.com/deoxys26)                            |
 
 This project connects a trained NLP model with a backend API and frontend interface. It demonstrates model inference, text classification, REST API design, and frontend integration for an end-to-end machine learning product.
 
@@ -189,14 +188,14 @@ A recommendation-focused data mining project that discovers product association 
 
 <br/>
 
-| Category | Details |
-|---|---|
-| Stack | Python, Pandas, Apriori, Streamlit, FastAPI |
-| Scale | Transaction-level product association analysis |
+| Category    | Details                                             |
+| ----------- | --------------------------------------------------- |
+| Stack       | Python, Pandas, Apriori, Streamlit, FastAPI         |
+| Scale       | Transaction-level product association analysis      |
 | Performance | Rule generation using support, confidence, and lift |
-| Security | Local analytical workflow |
-| Impact | Helps understand customer buying patterns |
-| Repository | [View Repository](https://github.com/deoxys26) |
+| Security    | Local analytical workflow                           |
+| Impact      | Helps understand customer buying patterns           |
+| Repository  | [View Repository](https://github.com/deoxys26)      |
 
 This project applies association rule mining to retail transaction data. It identifies product relationships and generates insights that can be used for recommendations, bundling strategies, and sales analysis.
 
@@ -213,14 +212,14 @@ A Python CLI-based trading bot built for Binance Futures Testnet with support fo
 
 <br/>
 
-| Category | Details |
-|---|---|
-| Stack | Python, Binance API, CLI, Logging |
-| Scale | Command-line order placement workflow |
-| Performance | Supports market and limit order execution |
-| Security | Testnet-based development environment |
-| Impact | Demonstrates API integration and trading automation basics |
-| Repository | [View Repository](https://github.com/deoxys26) |
+| Category    | Details                                                    |
+| ----------- | ---------------------------------------------------------- |
+| Stack       | Python, Binance API, CLI, Logging                          |
+| Scale       | Command-line order placement workflow                      |
+| Performance | Supports market and limit order execution                  |
+| Security    | Testnet-based development environment                      |
+| Impact      | Demonstrates API integration and trading automation basics |
+| Repository  | [View Repository](https://github.com/deoxys26)             |
 
 The trading bot helped me understand API-based automation, command-line argument handling, error logging, and external service integration. It was built for safe experimentation using Binance Futures Testnet.
 
@@ -230,20 +229,21 @@ The trading bot helped me understand API-based automation, command-line argument
 
 ## Experience
 
-### AI/ML & Full Stack Project Developer  
-**Independent Projects**  
+### AI/ML & Full Stack Project Developer
+
+**Independent Projects**
 `2025 — Present`
 
 Building AI-powered applications using FastAPI, React, machine learning models, and LLM APIs. Focused on developing projects that are practical, interview-ready, and aligned with real-world software engineering workflows.
 
 **Scope of Work**
 
-- Designed modular FastAPI backends for AI/ML applications  
-- Integrated LLM APIs into real product workflows  
-- Built React frontends for user interaction  
-- Created ML/NLP inference pipelines  
-- Worked with PDF processing, embeddings, retrieval, and prompt engineering  
-- Debugged backend issues, API errors, dependency conflicts, and deployment problems  
+* Designed modular FastAPI backends for AI/ML applications
+* Integrated LLM APIs into real product workflows
+* Built React frontends for user interaction
+* Created ML/NLP inference pipelines
+* Worked with PDF processing, embeddings, retrieval, and prompt engineering
+* Debugged backend issues, API errors, dependency conflicts, and deployment problems
 
 <br/>
 
@@ -258,13 +258,13 @@ Building AI-powered applications using FastAPI, React, machine learning models, 
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| Hackathon Project Builder | Built and improved AI/ML projects for competitive and portfolio use |
-| RAG Application Development | Developed LexIntel, a legal document assistant using retrieval-based AI |
-| ML Competition Practice | Worked on ensemble-based prediction improvements and model evaluation |
-| Full Stack AI Projects | Built multiple AI apps with backend APIs and frontend interfaces |
-| GitHub Portfolio Development | Actively improving project documentation and profile presentation |
+| Recognition                  | Details                                                                 |
+| ---------------------------- | ----------------------------------------------------------------------- |
+| Hackathon Project Builder    | Built and improved AI/ML projects for competitive and portfolio use     |
+| RAG Application Development  | Developed LexIntel, a legal document assistant using retrieval-based AI |
+| ML Competition Practice      | Worked on ensemble-based prediction improvements and model evaluation   |
+| Full Stack AI Projects       | Built multiple AI apps with backend APIs and frontend interfaces        |
+| GitHub Portfolio Development | Actively improving project documentation and profile presentation       |
 
 </div>
 
@@ -386,7 +386,7 @@ Open To:
   - Backend AI roles
   - Full stack AI projects
   - Freelance AI tools
-````
+```
 
 ---
 
@@ -418,4 +418,3 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7f00ff,50:302b63,100:0f0c29" />
 
 </div>
-```
