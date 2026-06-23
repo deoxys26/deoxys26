@@ -25,7 +25,7 @@
 <a href="mailto:phani262005@gmail.com">
   <img src="https://img.shields.io/badge/Email-phani262005%40gmail.com-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://deoxys26.github.io/phani-portfolio">
+<a href="https://phani-portfolio-eight.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
